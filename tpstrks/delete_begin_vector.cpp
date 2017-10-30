@@ -1,0 +1,5 @@
+  
+
+
+ 	b.erase(b.begin());
+
